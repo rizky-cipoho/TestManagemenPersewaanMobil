@@ -4,9 +4,9 @@
 php artisan migrate:fresh --seed
 
 'email' => 'test@example.com',
-'password' => bcrypt('test123'),
+'password' => 'test123',
 
 'email' => 'tes@example.com',
-'password' => bcrypt('test123'),
+'password' => 'test123',
 
 

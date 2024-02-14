@@ -9,4 +9,5 @@ php artisan migrate:fresh --seed
 'email' => 'tes@example.com',
 'password' => 'test123',
 
-
+php artisan serve
+npm run dev
